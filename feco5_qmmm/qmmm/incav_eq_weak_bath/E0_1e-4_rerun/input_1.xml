@@ -1,0 +1,53 @@
+<simulation verbosity='high'>
+  <output prefix='simu_1'>
+      <properties stride='4' filename='out'>  [ step, time{picosecond}, conserved{electronvolt}, temperature{kelvin}, kinetic_cv{electronvolt}, potential{electronvolt},
+        atom_x(30576){angstrom}, atom_x(30577){angstrom}, atom_v(30576), atom_v(30577),
+	atom_v(0), atom_v(1), atom_v(2), atom_v(3), atom_v(4), atom_v(5), atom_v(6), atom_v(7), atom_v(8), atom_v(9), atom_v(10),
+	atom_v(1911), atom_v(1912), atom_v(1913), atom_v(1914), atom_v(1915), atom_v(1916), atom_v(1917), atom_v(1918), atom_v(1919), atom_v(1920), atom_v(1921),
+	atom_v(3822), atom_v(3823), atom_v(3824), atom_v(3825), atom_v(3826), atom_v(3827), atom_v(3828), atom_v(3829), atom_v(3830), atom_v(3831), atom_v(3832),
+	atom_v(5733), atom_v(5734), atom_v(5735), atom_v(5736), atom_v(5737), atom_v(5738), atom_v(5739), atom_v(5740), atom_v(5741), atom_v(5742), atom_v(5743),
+	atom_v(7644), atom_v(7645), atom_v(7646), atom_v(7647), atom_v(7648), atom_v(7649), atom_v(7650), atom_v(7651), atom_v(7652), atom_v(7653), atom_v(7654),
+	atom_v(9555), atom_v(9556), atom_v(9557), atom_v(9558), atom_v(9559), atom_v(9560), atom_v(9561), atom_v(9562), atom_v(9563), atom_v(9564), atom_v(9565),
+	atom_v(11466), atom_v(11467), atom_v(11468), atom_v(11469), atom_v(11470), atom_v(11471), atom_v(11472), atom_v(11473), atom_v(11474), atom_v(11475), atom_v(11476),
+	atom_v(13377), atom_v(13378), atom_v(13379), atom_v(13380), atom_v(13381), atom_v(13382), atom_v(13383), atom_v(13384), atom_v(13385), atom_v(13386), atom_v(13387),
+	atom_v(15288), atom_v(15289), atom_v(15290), atom_v(15291), atom_v(15292), atom_v(15293), atom_v(15294), atom_v(15295), atom_v(15296), atom_v(15297), atom_v(15298),
+	atom_v(17199), atom_v(17200), atom_v(17201), atom_v(17202), atom_v(17203), atom_v(17204), atom_v(17205), atom_v(17206), atom_v(17207), atom_v(17208), atom_v(17209),
+	atom_v(19110), atom_v(19111), atom_v(19112), atom_v(19113), atom_v(19114), atom_v(19115), atom_v(19116), atom_v(19117), atom_v(19118), atom_v(19119), atom_v(19120),
+	atom_v(21021), atom_v(21022), atom_v(21023), atom_v(21024), atom_v(21025), atom_v(21026), atom_v(21027), atom_v(21028), atom_v(21029), atom_v(21030), atom_v(21031),
+	atom_v(22932), atom_v(22933), atom_v(22934), atom_v(22935), atom_v(22936), atom_v(22937), atom_v(22938), atom_v(22939), atom_v(22940), atom_v(22941), atom_v(22942),
+	atom_v(24843), atom_v(24844), atom_v(24845), atom_v(24846), atom_v(24847), atom_v(24848), atom_v(24849), atom_v(24850), atom_v(24851), atom_v(24852), atom_v(24853),
+	atom_v(26754), atom_v(26755), atom_v(26756), atom_v(26757), atom_v(26758), atom_v(26759), atom_v(26760), atom_v(26761), atom_v(26762), atom_v(26763), atom_v(26764),
+	atom_v(28665), atom_v(28666), atom_v(28667), atom_v(28668), atom_v(28669), atom_v(28670), atom_v(28671), atom_v(28672), atom_v(28673), atom_v(28674), atom_v(28675)] </properties>
+    <trajectory filename='xc' stride='500' format='xyz'> x_centroid{angstrom} </trajectory>
+    <trajectory filename='vc' stride='500' format='xyz'> v_centroid </trajectory>
+  </output>
+  <total_steps>10000</total_steps>
+  <prng>
+    <seed>31415</seed>
+  </prng>
+  <ffcavph name='run_qc_driver_qmmm.sh'>
+      <input_xyz_filename> init_eq_E0_1e-4.xyz </input_xyz_filename>
+      <n_independent_bath> 16 </n_independent_bath>
+      <n_qm_atom> 11 </n_qm_atom>
+  </ffcavph>
+  <system>
+    <initialize nbeads='1'>
+      <file mode='xyz' units='angstrom'> init_eq_E0_1e-4.xyz </file>
+      <cell mode='manual' units='angstrom'>
+	[2107.114, 0, 0, 0, 2107.114, 0, 0, 0, 2107.114]
+      </cell>
+      <velocities mode='xyz' units='atomic_unit'> init_velo.xyz </velocities>
+    </initialize>
+    <forces>
+      <force forcefield='run_qc_driver_qmmm.sh'> </force>
+    </forces>
+    <motion mode='dynamics'>
+      <dynamics mode='nve'>
+	  <timestep units='femtosecond'> 0.5 </timestep>
+      </dynamics>
+    </motion>
+    <ensemble>
+      <temperature units='kelvin'> 300 </temperature>
+    </ensemble>
+  </system>
+</simulation>

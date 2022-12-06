@@ -1,0 +1,296 @@
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem135977/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem135977/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem272898/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem272898/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem65014/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem65014/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem65567/46.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem65567/10.0: No such file or directory
+rm: No match.
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+FileMan error: Could not open file FM_GET_LEN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem117547/4.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem117547/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_FX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem117317/24.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem117317/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_FX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem116942/24.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem116942/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_NUCLEAR_HESSIAN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem43808/132.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem43808/10.0: No such file or directory
+rm: No match.
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Bus error
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+Segmentation fault
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem90321/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem90321/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem90364/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem90364/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem138082/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem138082/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem13700/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem13700/10.0: No such file or directory
+rm: No match.
+FileMan error: End of file reached prematurely reading (102536) bytes in file FILE_MULT_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem79714/63.0: No such file or directory
+FileMan error: End of file reached prematurely reading (102656) bytes in file FILE_MULT_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem79799/63.0: No such file or directory
+FileMan error: Could not open file FILE_SOL_ENERGY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem79751/686.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem79751/10.0: No such file or directory
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem44841/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem44841/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem44890/46.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem44890/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem274376/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem274376/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem30987/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem30987/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem229118/46.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem229118/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem229197/46.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem229197/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem252318/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem252318/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SOL_ENERGY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem54697/686.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem54697/10.0: No such file or directory
+FileMan error: End of file reached prematurely reading (102696) bytes in file FILE_MULT_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem56201/63.0: No such file or directory
+FileMan error: Could not open file FILE_SOL_ENERGY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem57538/686.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem57538/10.0: No such file or directory
+FileMan error: Could not open file FM_GET_LEN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem77162/4.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem77162/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FM_GET_LEN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem77340/4.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem77340/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem172002/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem172002/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem171786/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem171786/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_NUCLEAR_HESSIAN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem150102/132.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem150102/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FM_GET_LEN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem190922/4.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem190922/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem168953/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem168953/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem187003/46.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem187003/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem187021/46.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem187021/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem147652/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem147652/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem147619/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem147619/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem163493/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem163493/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem181732/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem181732/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SOL_ENERGY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem201686/686.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem201686/10.0: No such file or directory
+FileMan error: End of file reached prematurely reading (101928) bytes in file FILE_MULT_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem201355/63.0: No such file or directory
+FileMan error: End of file reached prematurely reading (4) bytes in file FILE_EXTERNAL_POINT_CHARGES
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem31420/177.0: No such file or directory
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem176795/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem176795/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem176780/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem176780/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FM_GET_LEN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem150688/4.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem150688/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem93837/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem93837/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem93861/46.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem93861/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem148464/46.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem148464/10.0: No such file or directory
+rm: No match.
+FileMan error: End of file reached prematurely reading (72) bytes in file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem229050/46.0: No such file or directory
+FileMan error: End of file reached prematurely reading (100) bytes in file FM_GET_LEN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem229094/4.0: No such file or directory
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem116457/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem116457/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem98710/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem98710/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FM_GET_LEN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem102791/4.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem102791/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FM_GET_LEN
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem103168/4.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem103168/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SYMMETRY
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem107661/46.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem107661/10.0: No such file or directory
+rm: No match.
+FileMan error: Could not open file FILE_SPARSE_DENSITY_MATRIX
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem107671/97.0: No such file or directory
+FileMan error: Could not open file UNKNOWN FILE
+ Path: /home/tl686/scratch60/qchem_dev/scratch/qchem107671/10.0: No such file or directory
+rm: No match.
+rm: cannot remove ‘/home/tl686/scratch60/qchem_dev/scratch/qchem228738’: Directory not empty
