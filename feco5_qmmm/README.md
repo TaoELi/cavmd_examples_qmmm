@@ -14,9 +14,9 @@ Please use a recent version of python 3 (e.g., python 3.8). Necessary python lib
 
 - Because QM/MM CavMD simulations need a parallel scheme to model a lot of molecules, **it can only be efficiently run on a Linux cluster**. The files in folders **qmmm/** and **qm_solvent_free/** include everything you need to start a job.
 
-- A tutorial for QM/MM simulations is available at https://github.com/TaoELi/cavity-md-ipi/tree/master/tutorials. In brief, this QM/MM CavMD simulation is implemented by calling many instances of [Q-Chem](https://www.q-chem.com/) at each time step in parallel. In practice, one can also use free electronic structure packages such as [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal) instead of Q-Chem (but in this case you need to write your own glue code from i-pi to ORCA). Please contact me if you want to use the CavMD code to start a large-scale QM/MM calculation.  
+- A tutorial for QM/MM simulations is available upon request (taoli@sas.upenn.edu) because currently the code is not fully optimized. In brief, this QM/MM CavMD simulation is implemented by calling many instances of [Q-Chem](https://www.q-chem.com/) at each time step in parallel, so you do need Q-Chem to continue.
 
-- Before trying this large-scale QM/MM CaMD simulations, why not first try to run a first-principles CavMD simulations for a single molecule inside the cavity **in your laptop**? The CavMD code can do it, and this feature is fully open source. Please check https://github.com/TaoELi/cavity-md-ipi/tree/master/tutorials for an example! 
+- Before trying this large-scale QM/MM CaMD simulations, why not first try to run a first-principles CavMD simulations for a single molecule inside the cavity **in your laptop**? The CavMD code can do it, and this feature is fully open source. Please check https://github.com/TaoELi/cavity-md-ipi/tree/master/tutorials for an example!
 
 
 ##### If you find any error on reproducing the results, please feel free to send me an email.
